@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="A2B mark">
+  <circle cx="60" cy="60" r="58" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1"/>
+  <g font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="54" letter-spacing="-2">
+    <text x="16" y="78" fill="#E30613">A</text>
+    <text x="48" y="78" fill="#9A9A9A">2</text>
+    <text x="76" y="78" fill="#3C3C3C">B</text>
+  </g>
+</svg>

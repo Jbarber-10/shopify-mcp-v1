@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" role="img" aria-label="A2B">
+  <style>
+    .a{fill:#E30613;}
+    .two{fill:#9A9A9A;}
+    .b{fill:#3C3C3C;}
+    .a,.two,.b{font-family:'Inter','Helvetica Neue',Arial,sans-serif;font-weight:900;font-size:72px;letter-spacing:-3px;}
+  </style>
+  <text x="6" y="62" class="a">A</text>
+  <text x="62" y="62" class="two">2</text>
+  <text x="108" y="62" class="b">B</text>
+</svg>
